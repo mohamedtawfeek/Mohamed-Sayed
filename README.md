@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate Back-End developer from Egypt</h3>
 
-- 🔭 I’m currently working on [QTE Development](https://qte.se)
+- 🔭 I’m currently working on [dudettes GmbH](https://dudettes.de)
 
-- 🌱 I’m currently learning **react, nextjs, gatsby**
+- 🌱 I’m currently learning **Vue, NuxtJS**
 
 - 🔭 I’m currently working on [Proxify](https://proxify.io)
 
